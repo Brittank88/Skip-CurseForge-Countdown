@@ -1,35 +1,35 @@
 // ==UserScript==
-// @name Skip CurseForge Countdown
-// @namespace http://tampermonkey.net/
-// @version 0.2
-// @description Skip the download countdown when downloading Minecraft mods from CurseForge.
-// @author Brittank88
-// @copyright 2020+, Brittank88
-// @homepage https://github.com/Brittank88/Skip-CurseForge-Countdown
-// @downloadURL https://github.com/Brittank88/Skip-CurseForge-Countdown/blob/master/SCC-Userscript.js
-// @supportURL https://github.com/Brittank88/Skip-CurseForge-Countdown/issues
-// @match https://www.curseforge.com/minecraft/mc-mods/*
-// @match https://www.curseforge.com/minecraft/mc-mods/*/files
-// @match https://www.curseforge.com/minecraft/mc-mods/*/files/*
-// @match https://www.curseforge.com/minecraft/modpacks/*
-// @match https://www.curseforge.com/minecraft/modpacks/*/files
-// @match https://www.curseforge.com/minecraft/modpacks/*/files/*
-// @match https://www.curseforge.com/minecraft/mc-addons/*
-// @match https://www.curseforge.com/minecraft/mc-addons/*/files
-// @match https://www.curseforge.com/minecraft/mc-addons/*/files/*
-// @match https://www.curseforge.com/minecraft/customization/*
-// @match https://www.curseforge.com/minecraft/customization/*/files
-// @match https://www.curseforge.com/minecraft/customization/*/files/*
-// @match https://www.curseforge.com/minecraft/bukkit-plugins/*
-// @match https://www.curseforge.com/minecraft/bukkit-plugins/*/files
-// @match https://www.curseforge.com/minecraft/bukkit-plugins/*/files/*
-// @match https://www.curseforge.com/minecraft/texture-packs/*
-// @match https://www.curseforge.com/minecraft/texture-packs/*/files
-// @match https://www.curseforge.com/minecraft/texture-packs/*/files/*
-// @match https://www.curseforge.com/minecraft/worlds/*
-// @match https://www.curseforge.com/minecraft/worlds/*/files
-// @match https://www.curseforge.com/minecraft/worlds/*/files/*
-// @require http://code.jquery.com/jquery-latest.js
+// @name         Skip CurseForge Countdown
+// @namespace    http://tampermonkey.net/
+// @version      0.2
+// @description  Skip the download countdown when downloading Minecraft mods from CurseForge.
+// @author       Brittank88
+// @copyright    2020+, Brittank88
+// @homepage     https://github.com/Brittank88/Skip-CurseForge-Countdown
+// @downloadURL  https://raw.githubusercontent.com/Brittank88/Skip-CurseForge-Countdown/master/SCC-Userscript.js
+// @supportURL   https://github.com/Brittank88/Skip-CurseForge-Countdown/issues
+// @match        https://www.curseforge.com/minecraft/mc-mods/*
+// @match        https://www.curseforge.com/minecraft/mc-mods/*/files
+// @match        https://www.curseforge.com/minecraft/mc-mods/*/files/*
+// @match        https://www.curseforge.com/minecraft/modpacks/*
+// @match        https://www.curseforge.com/minecraft/modpacks/*/files
+// @match        https://www.curseforge.com/minecraft/modpacks/*/files/*
+// @match        https://www.curseforge.com/minecraft/mc-addons/*
+// @match        https://www.curseforge.com/minecraft/mc-addons/*/files
+// @match        https://www.curseforge.com/minecraft/mc-addons/*/files/*
+// @match        https://www.curseforge.com/minecraft/customization/*
+// @match        https://www.curseforge.com/minecraft/customization/*/files
+// @match        https://www.curseforge.com/minecraft/customization/*/files/*
+// @match        https://www.curseforge.com/minecraft/bukkit-plugins/*
+// @match        https://www.curseforge.com/minecraft/bukkit-plugins/*/files
+// @match        https://www.curseforge.com/minecraft/bukkit-plugins/*/files/*
+// @match        https://www.curseforge.com/minecraft/texture-packs/*
+// @match        https://www.curseforge.com/minecraft/texture-packs/*/files
+// @match        https://www.curseforge.com/minecraft/texture-packs/*/files/*
+// @match        https://www.curseforge.com/minecraft/worlds/*
+// @match        https://www.curseforge.com/minecraft/worlds/*/files
+// @match        https://www.curseforge.com/minecraft/worlds/*/files/*
+// @require      http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
 
 (function() {
