@@ -5,8 +5,8 @@
 // @description  Skip the download countdown when downloading Minecraft mods from CurseForge.
 // @author       Brittank88
 // @copyright    2020+, Brittank88
-// @updateURL    https://github.com/Brittank88/Skip-CurseForge-Countdown/blob/master/SCC-Userscript.js
-// @downloadURL  https://github.com/Brittank88/Skip-CurseForge-Countdown/blob/master/SCC-Userscript.js
+// @updateURL    https://raw.githubusercontent.com/Brittank88/Skip-CurseForge-Countdown/master/SCC-Userscript.js
+// @downloadURL  https://raw.githubusercontent.com/Brittank88/Skip-CurseForge-Countdown/master/SCC-Userscript.js
 // @supportURL   https://github.com/Brittank88/Skip-CurseForge-Countdown/issues
 // @match        https://www.curseforge.com/minecraft/mc-mods/*
 // @match        https://www.curseforge.com/minecraft/mc-mods/*/files
