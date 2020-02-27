@@ -9,27 +9,9 @@
 // @downloadURL  https://raw.githubusercontent.com/Brittank88/Skip-CurseForge-Countdown/master/SCC-Userscript.js
 // @supportURL   https://github.com/Brittank88/Skip-CurseForge-Countdown/issues
 // @require      http://code.jquery.com/jquery-latest.js
-// @match        https://www.curseforge.com/minecraft/mc-mods/*
-// @match        https://www.curseforge.com/minecraft/mc-mods/*/files
-// @match        https://www.curseforge.com/minecraft/mc-mods/*/files/*
-// @match        https://www.curseforge.com/minecraft/modpacks/*
-// @match        https://www.curseforge.com/minecraft/modpacks/*/files
-// @match        https://www.curseforge.com/minecraft/modpacks/*/files/*
-// @match        https://www.curseforge.com/minecraft/mc-addons/*
-// @match        https://www.curseforge.com/minecraft/mc-addons/*/files
-// @match        https://www.curseforge.com/minecraft/mc-addons/*/files/*
-// @match        https://www.curseforge.com/minecraft/customization/*
-// @match        https://www.curseforge.com/minecraft/customization/*/files
-// @match        https://www.curseforge.com/minecraft/customization/*/files/*
-// @match        https://www.curseforge.com/minecraft/bukkit-plugins/*
-// @match        https://www.curseforge.com/minecraft/bukkit-plugins/*/files
-// @match        https://www.curseforge.com/minecraft/bukkit-plugins/*/files/*
-// @match        https://www.curseforge.com/minecraft/texture-packs/*
-// @match        https://www.curseforge.com/minecraft/texture-packs/*/files
-// @match        https://www.curseforge.com/minecraft/texture-packs/*/files/*
-// @match        https://www.curseforge.com/minecraft/worlds/*
-// @match        https://www.curseforge.com/minecraft/worlds/*/files
-// @match        https://www.curseforge.com/minecraft/worlds/*/files/*
+// @match        https://www.curseforge.com/minecraft/*/*
+// @match        https://www.curseforge.com/minecraft/*/*/*
+// @match        https://www.curseforge.com/minecraft/*/*/*/*
 // ==/UserScript==
 
 (function () {
