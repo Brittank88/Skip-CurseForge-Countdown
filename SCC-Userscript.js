@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Skip CurseForge Countdown
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Skip the download countdown when downloading Minecraft mods from CurseForge.
 // @author       Brittank88
 // @copyright    2020+, Brittank88
